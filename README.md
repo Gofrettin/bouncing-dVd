@@ -1,2 +1,2 @@
 # Bouncing dVd
-Project WIP
+Project WIP made in the V programming language

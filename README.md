@@ -1,2 +1,8 @@
 # Bouncing dVd
-Project WIP made in the V programming language
+A project made with V
+
+## Building
+You will need the V compiler.
+```console
+$ v -enable-globals run dvd.v
+```
